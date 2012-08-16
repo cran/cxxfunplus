@@ -1,0 +1,13 @@
+5250f9d9fdffd56765b7f24cc318d4db *DESCRIPTION
+d44a8e7ac5c7e91441bb7ea52eb5ec0d *NAMESPACE
+27098a646fb881ab7694432b4f7a4d14 *R/cxxdso-class.R
+e6256334014dc7e7759f8b9930d0506d *R/cxxfunplus.R
+5f78c782a1452856c890c546aa747e11 *R/first.R
+399f3276e9a5a758cf99c284d702cc28 *inst/tests/test.R
+459f4794838547c77f656b1e62d863f7 *man/cxxdso-class.Rd
+8d7f7fbe1280152aea52b57998dec88c *man/cxxfunplus-package.Rd
+d268dd6765790bda96216f16a7f6e00f *man/cxxfunplus.Rd
+d8b910fdb94eb58ef61849e638e05873 *man/getDynLib.Rd
+454edc4d4a0f171d8f756bd57bef8690 *man/grab.cxxfun.Rd
+3f47652c8c68feea1a6a634c62af6e3c *man/is.dso.loaded.Rd
+be9a79fc03cf0d0711a2586b98380773 *man/is.null.cxxfun.Rd
