@@ -1,11 +1,11 @@
-7d13051443085b29bd3a8b378668e853 *DESCRIPTION
+6888c488a81bad0433c946484cd3cac5 *DESCRIPTION
 ac2acd4278405470839a031fe1907062 *NAMESPACE
 27098a646fb881ab7694432b4f7a4d14 *R/cxxdso-class.R
 e6256334014dc7e7759f8b9930d0506d *R/cxxfunplus.R
 5f78c782a1452856c890c546aa747e11 *R/first.R
 399f3276e9a5a758cf99c284d702cc28 *inst/tests/test.R
 459f4794838547c77f656b1e62d863f7 *man/cxxdso-class.Rd
-8d7f7fbe1280152aea52b57998dec88c *man/cxxfunplus-package.Rd
+2c5301ab6da79016c71f587ab2524bfc *man/cxxfunplus-package.Rd
 d268dd6765790bda96216f16a7f6e00f *man/cxxfunplus.Rd
 d8b910fdb94eb58ef61849e638e05873 *man/getDynLib.Rd
 454edc4d4a0f171d8f756bd57bef8690 *man/grab.cxxfun.Rd
